@@ -1,8 +1,8 @@
 #include "Circle.h"
 //コンストラクタ
-Circle::Circle(void)
+Circle::Circle()
 {
-	PI = 3.14;
+	PI = 3.14f;
 }
 //円の面積を求める関数
 //引数：半径
