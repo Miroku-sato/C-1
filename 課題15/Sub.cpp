@@ -1,6 +1,6 @@
 #include "Sub.h"
 
-void Sub::Minus()
+void Sub :: Minus()
 {
 	c = a - b;
 }
