@@ -1,10 +1,10 @@
-#include "Sample.h"
+#include "Sub.h"
 
 //メイン関数
 int main()
 {
 	//Subクラスのインスタンス(実態)を作る
-	SampleClass a;
+	Sub a;
 
 	//３つのメンバ関数を呼び出す
 	a.Input();

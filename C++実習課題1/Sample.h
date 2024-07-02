@@ -5,6 +5,7 @@
 
 //ƒNƒ‰ƒX‚ğéŒ¾
 class SampleClass {
+	public:
 	//ƒƒ“ƒo•Ï”
 	int a;
 	int b;
