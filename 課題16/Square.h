@@ -3,5 +3,6 @@
 
 class Square : public Figure
 {
-
+public:
+	void Calc();
 };
